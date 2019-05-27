@@ -1,7 +1,6 @@
 This program mainly implements the SRV_TSL algorithm which was described in our paper:
 
-Aadaptive Reference Vectors Strategies for Many-Objective Optimization
-
+Two new reference vector adaptation strategies for many-objective evolutionary algorithms
 
 **************************************************************************************************************************************
 
